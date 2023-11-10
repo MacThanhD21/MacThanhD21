@@ -4,7 +4,7 @@
 <div align="center">
   <span>
   <h1 align="center">Hello, I'm MacThanh,</h1>
-  <h4 align="center">I'm currently learning at PTIT. Please take a look at my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/cv.azzar_budiyanto.pdf" target="_blank">resume</a> for more information.</h4>
+  <h4 align="center">I'm currently learning at PTIT. Please take a look at my <a href="#" target="_blank">resume</a> for more information.</h4>
   </span>
 </div>
 
