@@ -15,26 +15,14 @@
   <div>
     <h2 align="center">You can reach me by:</h2>
     <p align="center">
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="_blank">
+      <a href="[https://www.linkedin.com/in/azzar-budiyanto/](https://www.linkedin.com/in/m%E1%BA%A1c-th%C3%A0nh-07015b24a/)" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30">
       </a>
-      <a href="https://fb.com/1999AZZAR" target="_blank">
+      <a href="[https://fb.com/1999AZZAR](https://www.facebook.com/thanh.macvan.31586)" target="_blank">
         <img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="azzar" height="30">
-      </a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30">
       </a>
     </p>
     <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="azzar" height="30">
-      </a>
-      <a href="https://wa.me/+6282232529804" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="azzar" height="30">
-      </a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="azzar" height="30">
-      </a>
     </p>
   </div>
 </details>
@@ -200,4 +188,3 @@ You can support me by buy me a coffee if u like to.
 
 -----
 
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
